@@ -1,0 +1,4 @@
+VASChances
+==========
+
+Django VAS buildout
