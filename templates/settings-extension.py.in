@@ -22,15 +22,6 @@ debug_toolbar_config_items = [
 {{endif}}
 {{endif}}
 
-# ZINNIA
-THEMES_DIR = os.path.join(STATIC_ROOT, 'themes')
-STATICFILE_DIRS = (STATIC_ROOT,)
-CMS_LANGUAGES = LANGUAGES
-CMS_TEMPLATES = (
-    ('base.html', 'Blank'),
-)
-CMS_SEO_FIELDS = True
-
 USE_L10N = True
 DATE_FORMAT = "%A %d. %B %Y"
 TIME_FORMAT = "%H:%M"

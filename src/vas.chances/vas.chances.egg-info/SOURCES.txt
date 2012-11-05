@@ -1,9 +1,13 @@
-setup.cfg
+README.txt
 setup.py
+vas/__init__.py
 vas.chances.egg-info/PKG-INFO
 vas.chances.egg-info/SOURCES.txt
 vas.chances.egg-info/dependency_links.txt
 vas.chances.egg-info/entry_points.txt
+vas.chances.egg-info/namespace_packages.txt
 vas.chances.egg-info/not-zip-safe
+vas.chances.egg-info/requires.txt
 vas.chances.egg-info/top_level.txt
-vaschances/__init__.py
+vas/chances/__init__.py
+vas/chances/urls.py
