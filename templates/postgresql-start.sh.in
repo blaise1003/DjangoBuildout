@@ -1,0 +1,2 @@
+#!/bin/bash
+${postgresql:location}/bin/postgres -D ${postgresql:location}/var/data
