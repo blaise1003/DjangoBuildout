@@ -1,0 +1,9 @@
+setup.cfg
+setup.py
+vas.chances.egg-info/PKG-INFO
+vas.chances.egg-info/SOURCES.txt
+vas.chances.egg-info/dependency_links.txt
+vas.chances.egg-info/entry_points.txt
+vas.chances.egg-info/not-zip-safe
+vas.chances.egg-info/top_level.txt
+vaschances/__init__.py
